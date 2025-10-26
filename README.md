@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# HollowKnight-Mod
-
-Generated with https://github.com/zmrlft/GreenWall.
 =======
 ##
 **feature**:\
@@ -10,4 +6,4 @@ Generated with https://github.com/zmrlft/GreenWall.
 3.nail art charge\
 4.Dash attack
 ##
->>>>>>> origin
+>>>>>>>
